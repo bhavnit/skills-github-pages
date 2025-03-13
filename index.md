@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog: Bhavnit
+title: Welcome to my blog
 ---
 
